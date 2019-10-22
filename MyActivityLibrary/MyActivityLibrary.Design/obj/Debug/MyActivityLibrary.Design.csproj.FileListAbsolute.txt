@@ -1,0 +1,16 @@
+E:\project\study\c#\source\repos\MyActivityLibrary\MyActivityLibrary.Design\bin\Debug\MyActivityLibrary.Design.dll
+E:\project\study\c#\source\repos\MyActivityLibrary\MyActivityLibrary.Design\bin\Debug\MyActivityLibrary.Design.pdb
+E:\project\study\c#\source\repos\MyActivityLibrary\MyActivityLibrary.Design\bin\Debug\MyActivityLibrary.dll
+E:\project\study\c#\source\repos\MyActivityLibrary\MyActivityLibrary.Design\bin\Debug\MyActivityLibrary.pdb
+E:\project\study\c#\source\repos\MyActivityLibrary\MyActivityLibrary.Design\obj\Debug\MyActivityLibrary.Design.csprojAssemblyReference.cache
+E:\project\study\c#\source\repos\MyActivityLibrary\MyActivityLibrary.Design\obj\Debug\MyActivityDesigner.baml
+E:\project\study\c#\source\repos\MyActivityLibrary\MyActivityLibrary.Design\obj\Debug\MyActivityDesigner.g.cs
+E:\project\study\c#\source\repos\MyActivityLibrary\MyActivityLibrary.Design\obj\Debug\MyActivityLibrary.Design_MarkupCompile.cache
+E:\project\study\c#\source\repos\MyActivityLibrary\MyActivityLibrary.Design\obj\Debug\MyActivityLibrary.Design.g.resources
+E:\project\study\c#\source\repos\MyActivityLibrary\MyActivityLibrary.Design\obj\Debug\MyActivityLibrary.Design.Properties.Resources.resources
+E:\project\study\c#\source\repos\MyActivityLibrary\MyActivityLibrary.Design\obj\Debug\MyActivityLibrary.Design.csproj.GenerateResource.cache
+E:\project\study\c#\source\repos\MyActivityLibrary\MyActivityLibrary.Design\obj\Debug\MyActivityLibrary.Design.csproj.CopyComplete
+E:\project\study\c#\source\repos\MyActivityLibrary\MyActivityLibrary.Design\obj\Debug\MyActivityLibrary.Design.dll
+E:\project\study\c#\source\repos\MyActivityLibrary\MyActivityLibrary.Design\obj\Debug\MyActivityLibrary.Design.pdb
+E:\project\study\c#\source\repos\MyActivityLibrary\MyActivityLibrary.Design\bin\Debug\MyActivityLibrary.Design.dll.CodeAnalysisLog.xml
+E:\project\study\c#\source\repos\MyActivityLibrary\MyActivityLibrary.Design\bin\Debug\MyActivityLibrary.Design.dll.lastcodeanalysissucceeded

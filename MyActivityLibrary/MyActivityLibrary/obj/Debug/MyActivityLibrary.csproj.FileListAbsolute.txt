@@ -1,0 +1,7 @@
+E:\project\study\c#\source\repos\MyActivityLibrary\MyActivityLibrary\bin\Debug\MyActivityLibrary.dll
+E:\project\study\c#\source\repos\MyActivityLibrary\MyActivityLibrary\bin\Debug\MyActivityLibrary.pdb
+E:\project\study\c#\source\repos\MyActivityLibrary\MyActivityLibrary\obj\Debug\MyActivityLibrary.csprojAssemblyReference.cache
+E:\project\study\c#\source\repos\MyActivityLibrary\MyActivityLibrary\obj\Debug\MyActivityLibrary.dll
+E:\project\study\c#\source\repos\MyActivityLibrary\MyActivityLibrary\obj\Debug\MyActivityLibrary.pdb
+E:\project\study\c#\source\repos\MyActivityLibrary\MyActivityLibrary\bin\Debug\MyActivityLibrary.dll.CodeAnalysisLog.xml
+E:\project\study\c#\source\repos\MyActivityLibrary\MyActivityLibrary\bin\Debug\MyActivityLibrary.dll.lastcodeanalysissucceeded
